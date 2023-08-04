@@ -13,3 +13,5 @@ Se um participante se envolver em comportamento assediador, os organizadores do 
 Se você estiver sendo assediado, perceber que alguém mais está sendo assediado ou tiver qualquer outra preocupação, entre em contato imediatamente com um membro da equipe do meetup.
 
 A equipe do meetup ficará feliz em ajudar os participantes a entrar em contato com a segurança do local ou com a polícia local, fornecer escoltas ou ajudar de outra forma aqueles que estão passando por assédio a se sentirem seguros durante o meetup. Valorizamos sua presença. Esperamos que os participantes sigam estas regras nos locais do meetup e workshop, bem como em eventos sociais relacionados ao meetup.
+
+Crédito e fonte original: https://confcodeofconduct.com & The Ada Initiative.
