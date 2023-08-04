@@ -6,7 +6,7 @@ Assédio inclui comentários verbais ofensivos relacionados ao gênero, identida
 
 Participantes solicitados a interromper qualquer comportamento assediador devem fazê-lo imediatamente.
 
-Os patrocinadores também estão sujeitos à política anti-assédio. Em particular, os patrocinadores não devem usar imagens sexualizadas, atividades ou outros materiais. A equipe do estande (incluindo voluntários) não deve usar roupas/uniformes/fantasias sexualizadas ou criar um ambiente sexualizado de outra forma.
+Os patrocinadores também estão sujeitos à política anti-assédio. Em particular, os patrocinadores não devem usar imagens sexualizadas, atividades ou outros materiais.
 
 Se um participante se envolver em comportamento assediador, os organizadores do meetup poderão tomar as medidas que considerarem apropriadas, incluindo expulsá-lo do evento e grupo.
 
